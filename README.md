@@ -19,7 +19,7 @@ This project is a React application (created with Create React App) that display
 The project was created using Create React App:
 
 ```bash
-npx create-react-app yadav-nandish-site
+npx create-react-app yadav-nandish-assignment11
 ```
 
 The `src/App.js` file was then edited so the app renders:
